@@ -22,4 +22,4 @@ To get started with the project, follow these steps:
 
 ## Usage
 
-Once the application is up and running, you can interact with the microservices using Postman or any API tool of your choice. The application is accessible at http://localhost:85 and routes requests to the appropriate microservice based on the endpoint.
+Once the application is up and running, you can interact with the microservices using Postman or any API tool of your choice. The application is accessible at http://localhost:8085 and routes requests to the appropriate microservice based on the endpoint.
